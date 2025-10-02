@@ -3,6 +3,8 @@ DerivedDataCache
 Intermediate
 Saved
 Content/FirstPerson/Assets
+Content/Asset
+Content/Material
 .vscode
 .vs
 *.VC.db
